@@ -28,7 +28,9 @@
 - Self-supervised monocular depth estimation for all day images using domain separation[[pdf](https://arxiv.org/pdf/2108.07628))][[code](https://github.com/LINA-lln/ADDS-DepthNet)]
 ---
 ## 2020
-- DeFeat-Net: General Monocular Depth via Simultaneous Unsupervised Representation Learning [[pdf](https://arxiv.org/pdf/2003.13446))][[code](https://github.com/jspenmar/DeFeat-Net)]
+- DeFeat-Net: General Monocular Depth via Simultaneous Unsupervised Representation Learning [[pdf](https://arxiv.org/pdf/2003.13446)][[code](https://github.com/jspenmar/DeFeat-Net)]
+- Unsupervised Monocular Depth Estimation for Night-time Images using Adversarial Domain Feature Adaptation [[pdf](https://arxiv.org/abs/2010.01402)][[code](https://github.com/jspenmar/DeFeat-Net)]
+
 ---
 ## 2019
 - Digging Into Self-Supervised Monocular Depth EstimationM(Monodepth) [[pdf](https://arxiv.org/pdf/1806.01260))][[code](https://github.com/nianticlabs/monodepth2)]
