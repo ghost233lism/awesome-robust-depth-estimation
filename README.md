@@ -16,7 +16,7 @@
 - RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions[[pdf](https://arxiv.org/pdf/2310.15171)][[code](https://github.com/ldkong1205/RoboDepth)]
 - Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion[[pdf](https://arxiv.org/pdf/2312.12471)][[code](https://github.com/zkawfanx/Atlantis)]
 - Learning Depth Estimation for Transparent and Mirror Surfaces[[pdf](https://arxiv.org/abs/2307.15052)][[code](https://github.com/zkawfanx/Atlantis)]
-- STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation[[pdf](https://arxiv.org/abs/2302.01334)][[code](https://github.com/zkawfanx/Atlantis)]
+- STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation[[pdf](https://arxiv.org/abs/2302.01334)][[code](https://github.com/ucaszyp/STEPS)]
 - EC-Depth: Exploring the consistency of self-supervised monocular depth estimation in challenging scenes[[pdf](https://arxiv.org/abs/2310.08044)][[code](https://github.com/RuijieZhu94/EC-Depth)]
 ---
 ## 2022
